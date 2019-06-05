@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Tomorrow&#039;s headlines</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/tomorrows-headlines</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Tomorrow’s headlines</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/tomorrows-headlines</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Blank fake newspaper front cover to imagine the future.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Tomorrow’s headlines can help the co-design team to imagine what the future of the service looks like and how it should be communicated to users.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Encourage the co-design team to imagine the future of the service.&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;What would the headline of a newspaper say about the service? &lt;/li&gt;
+&lt;li&gt;What would the article describe and what would some people using the service be quoted as saying?&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Encourage the co-design team to be creative with their newspaper front cover.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Use art materials and magazines to bring the front cover of the newspaper to life.&lt;/p&gt;
+&lt;p&gt;Photograph the group’s newspapers.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:45:40 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">103 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/tomorrows-headlines#comments</comments>
+</item>
+</channel>
+</rss>

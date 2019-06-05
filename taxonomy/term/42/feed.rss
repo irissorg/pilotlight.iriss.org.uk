@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Research</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/research</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Journey mapping</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/journey-mapping</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;A record of specific points of a service and / or a service user’s journey.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Journey mapping gathers in-depth information about specific points of a journey through a service or an experience. It helps the co-design team understand the service or experience from the different perspectives of the people involved. &lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Either map the journey of a real person or use a case study or &lt;a href=&quot;https://pilotlight.iriss.org.uk/co-design/tools/character-profiles&quot;&gt;character profile &lt;/a&gt;. If you are using a case study or character profile it is helpful to ask one person in the co-design team to role play the character.&lt;/p&gt;
+&lt;p&gt;Consider the entire service or experience:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Who is involved? Who should be involved?&lt;/li&gt;
+&lt;li&gt;What are the entry and exit points for someone using the service or experience?&lt;/li&gt;
+&lt;li&gt;What are the actions or steps that each person involved takes?&lt;/li&gt;
+&lt;li&gt;When do they take them?&lt;/li&gt;
+&lt;li&gt;Where are the gaps?&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Encourage the co-design team to plot all of the steps in between the entry and exit points.&lt;/p&gt;
+&lt;p&gt;It can be useful to ask different stakeholders to complete the same journey and then compare these afterwards – do the service providers and users view the service steps differently?&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The downloadable .pdf is merely a template from which you can create your own journey map. It can be useful to create the journey map base on a long piece of paper. Use post-it notes to capture the steps of the journey (these can then be moved around as the journey grows). Consider using different colour post-it notes for each person involved in the journey. Take photographs of the journeys for your research.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:32:05 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">99 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/journey-mapping#comments</comments>
+</item>
+<item>
+ <title>Shadowing</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/shadowing</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;An observation of a service or service user’s experience.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Shadowing helps the co-design team to gather in- depth information about the service or service user’s experience. It helps members understand the context within which they are designing and begin to spot patterns and design opportunities.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Consider the problem you are looking to design solutions for: &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;What do you need to understand?&lt;/li&gt;
+&lt;li&gt;Do you need to understand the problem from different perspectives? &lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Arrange to observe the service from these different perspectives.&lt;/p&gt;
+&lt;p&gt;Encourage members of the co-design team to observe different elements of the service.&lt;/p&gt;
+&lt;p&gt;While they are observing the service, encourage members to take notes, take photographs or film what they see.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;It is helpful to record the session using a video camera or an audio recorder so that you can revisit the research in the future.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:30:03 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">98 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/shadowing#comments</comments>
+</item>
+<item>
+ <title>Research interview</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/research-interview</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;A structured interview template.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Research interviews gather in-depth information about the topic in question. When members of the co-design team conduct the research interviews, it helps everyone deeply understand the topic.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Consider the problem you are looking to design solutions for: &lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;What do you need to understand?&lt;/li&gt;
+&lt;li&gt;Who do you need to speak to? &lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Create questions in order to fully understand the topic. (You may need to create different interview templates for the different groups of people you need to speak to.)&lt;/p&gt;
+&lt;p&gt;Create a structured interview template with no more than 8–10 questions. &lt;/p&gt;
+&lt;p&gt;Encourage members of the co-design team to interview 2 or 3 people as part of their research. &lt;/p&gt;
+&lt;p&gt;Encourage members to write an interview summary and then bring their feedback to the group.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;It is helpful to record the interviews using a video camera or an audio recorder so that you can revisit the research in the future.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:06:21 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">97 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/research-interview#comments</comments>
+</item>
+</channel>
+</rss>

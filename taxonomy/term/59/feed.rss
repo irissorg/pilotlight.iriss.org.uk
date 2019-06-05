@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - De Bono Thinking Hats</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/de-bono-thinking-hats</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Thinking hats</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/thinking-hats</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Thinking about a problem in different ways.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Thinking hats allow co-design teams to consider a problem in different ways and to have discussions.&lt;/p&gt;
+&lt;p&gt;‘By mentally wearing and switching ‘hats’ you can easily focus or redirect your thoughts.’&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Consider a problem that you would like the co-design team to focus on.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;The white hat focuses on the information that is known about or needed&lt;/li&gt;
+&lt;li&gt;The yellow hat focuses on the positives&lt;/li&gt;
+&lt;li&gt;The black hat focuses on the negatives&lt;/li&gt;
+&lt;li&gt;The red hat focuses on feelings&lt;/li&gt;
+&lt;li&gt;The green hat focuses on creative possibilities&lt;/li&gt;
+&lt;li&gt;The blue hat is used to manage the thinking process&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This technique was popularised in the book Six Thinking Hats (De Bono E, 1985). &lt;a href=&quot;http://www.debonogroup.com/six_thinking_hats.php&quot;&gt;More information…&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Using coloured party hats can be useful as the group can physically put on and take off their thinking hats.&lt;/p&gt;
+&lt;p&gt;Capture the responses to the thinking hats on pieces of paper relating to the hat in question.&lt;/p&gt;
+&lt;p&gt;Take photographs of the process and results for your records.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:48:32 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">104 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/thinking-hats#comments</comments>
+</item>
+</channel>
+</rss>

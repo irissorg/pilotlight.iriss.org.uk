@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Website  Design</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/website-design</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Website Page Prototype</title>
+ <link>https://pilotlight.iriss.org.uk/resources/website-page-prototype</link>
+ <description>&lt;div class=&quot;field field--name-field-resource-who field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Who is it for?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;The Website Page Prototype is a co-designed website page for dementia support&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The Website Page Prototype has been co-designed with people with younger onset dementia and their carers to make online information accessible.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-resource-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How can you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;The Website Page Prototype can be used as a guide to website design for people with dementia.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 17 Jan 2017 11:23:08 +0000</pubDate>
+ <dc:creator>Josie Vallely</dc:creator>
+ <guid isPermaLink="false">186 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/resources/website-page-prototype#comments</comments>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Deliver</title>
+ <link>https://pilotlight.iriss.org.uk/category/design-stages/deliver</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Inclusion Form</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/inclusion-form</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Facilitation tool.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/deliver&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Deliver&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The inclusion form identifies any support requirements of participants to enable everyone to participate equally. Facilitators can then respond by making the necessary adaptations to the workshop design and environment.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Before undertaking any design workshops, meet participants on a one to one basis and complete the checklist together. In designing the workshops, use the checklists to ensure the needs of all participants are catered for.&lt;/p&gt;
+&lt;p&gt;You may find it helpful to revisit the checklist part the way through the co-design process - participants may be more willing to give information about their additional support needs once they get to know you and you may observe additional support needs not already catered for during the workshops.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 28 Jul 2015 12:20:29 +0000</pubDate>
+ <dc:creator>Kate Dowling</dc:creator>
+ <guid isPermaLink="false">137 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/inclusion-form#comments</comments>
+</item>
+<item>
+ <title>&#039;Stop&#039; and &#039;I want to speak&#039; cards</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/stop-and-i-want-speak-cards</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Facilitation tool.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/deliver&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Deliver&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;‘Stop’ and ‘I want to speak’ cards act as a facilitation aid for the group and facilitators by allowing everyone to hold up a ‘stop’ or ‘I want to speak’ card whenever they feel appropriate. &lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Give each member of the co-design team a red ‘stop’ card and a green ‘I want to speak’ card.&lt;/p&gt;
+&lt;p&gt;Encourage the group to use these throughout the co-design team workshops.&lt;/p&gt;
+&lt;p&gt;They aid:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Equal participation by encouraging everyone to speak up&lt;/li&gt;
+&lt;li&gt;Each person to monitor their air time &lt;/li&gt;
+&lt;li&gt;Empowerment of quieter members of the group &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Faciltators should use their own professional judgement as to when to use these cards. It has been suggested that some groups may find them patronising. In Pilotlight we introduced them at the first workshop in each co-design process and at the second workshop asked the co-design team whether or not they wished to continue to use them. Some teams chose to, others felt they did not need them. We did encourage use of the &#039;red card&#039; for jargon.&lt;/p&gt;
+&lt;p&gt;Photographs rather than symbols maybe better for some groups.&lt;/p&gt;
+&lt;p&gt;Consider changing ‘I don’t understand’ to ‘What do you mean?’ on the red card when working with groups who may be reluctant to admit lack of understanding.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;An additional card was designed and used during one of our co-design processes, &#039;I don&#039;t want to speak&#039;. Individuals could use this card to indicate to the faciltator that they did not wish to share their own experiences or ideas in group discussions.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:57:47 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">110 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/stop-and-i-want-speak-cards#comments</comments>
+</item>
+</channel>
+</rss>

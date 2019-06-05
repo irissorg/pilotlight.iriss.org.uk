@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - planning</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/planning</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>SDS Mapping Tool</title>
+ <link>https://pilotlight.iriss.org.uk/resources/sds-mapping-tool</link>
+ <description>&lt;div class=&quot;field field--name-field-resource-who field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Who is it for?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;The SDS Mapping Tool is for anyone supporting a person through their SDS journey.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;The SDS Mapping Tool maps all the people and steps involved in an individual’s journey to SDS. It is designed to help the person know who is involved, what their roles are, what each step will be and when it will take place so that they can exercise as much choice and control as possible over the process.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-resource-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How can you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;The SDS Mapping Tool is designed to be hung on a wall as a calendar. The key or main supporter should take the lead in supporting the person to request photographs and contact details for each person and recording each step (meetings, telephone calls etc.) as they are arranged.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Wed, 07 Jan 2015 14:36:19 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">95 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/resources/sds-mapping-tool#comments</comments>
+</item>
+</channel>
+</rss>

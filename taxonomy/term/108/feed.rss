@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Assets</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/assets</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Asset map</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/asset-map</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;A template for individual mapping of assets&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;By mapping the different assets that exist locally and making&lt;br /&gt;
+	this information readily accessible, it should enable more&lt;br /&gt;
+	people to make informed decisions about the care&lt;br /&gt;
+	and support that they choose to receive and also to allow&lt;br /&gt;
+	practitioners to effectively signpost people on to supports&lt;br /&gt;
+	and services so that they can determine the best course of&lt;br /&gt;
+	action for themselves.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Give each member of the co-design team an asset map template. Explain to them that there are many different definitions of assets, but essentially they are considered as resources, which individuals and&lt;br /&gt;
+	communities have at their disposal (Harrison et al, 2004). Ask each member of the co-design team to complete their own asset map based on where they live or work.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Have a large (A1 or A0) size map of the area you are designing for and ask each member of the co-design team to plot their assets on the map using post-its, photos and / or lego figures. This community asset map can be added to over time and digitised.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 05 Jul 2016 15:15:19 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">172 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/asset-map#comments</comments>
+</item>
+</channel>
+</rss>

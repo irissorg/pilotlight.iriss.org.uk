@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Develop</title>
+ <link>https://pilotlight.iriss.org.uk/category/design-stages/develop</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Mapping a character’s journey</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/mapping-characters-journey</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;This exercise is about exploring the ups and downs of a character’s journey.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Journey mapping gathers in-depth information about specific points of a character’s journey. It helps the co-design team understand things from a character’s perspective. It helps identify where service or support interventions are needed. &lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;There are three steps.&lt;/p&gt;
+&lt;p&gt;1. Identify four or five key milestones in your character’s journey. A ‘milestone’ is a significant stage or event in your character’s journey. Write the milestones down and stick them along the journey.&lt;/p&gt;
+&lt;p&gt;2. Add in the detail. Between each milestone there will be lots of smaller steps. Think about whether they are positive or negative experiences emotionally. With a pen, write these steps down. The most positive experiences should be near to the top of the page, and the worst experiences will be near the bottom of the page.&lt;/p&gt;
+&lt;p&gt;3. Using the speech bubble notes, add in how your character felt at different points.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;You will need to have developed character profiles (link to 4) before using this co-design tool.&lt;/p&gt;
+&lt;p&gt;Use a roll of lining paper or similar for each character’s journey map.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 17 Jan 2017 12:22:35 +0000</pubDate>
+ <dc:creator>Josie Vallely</dc:creator>
+ <guid isPermaLink="false">198 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/mapping-characters-journey#comments</comments>
+</item>
+<item>
+ <title>Asset map</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/asset-map</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;A template for individual mapping of assets&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;By mapping the different assets that exist locally and making&lt;br /&gt;
+	this information readily accessible, it should enable more&lt;br /&gt;
+	people to make informed decisions about the care&lt;br /&gt;
+	and support that they choose to receive and also to allow&lt;br /&gt;
+	practitioners to effectively signpost people on to supports&lt;br /&gt;
+	and services so that they can determine the best course of&lt;br /&gt;
+	action for themselves.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Give each member of the co-design team an asset map template. Explain to them that there are many different definitions of assets, but essentially they are considered as resources, which individuals and&lt;br /&gt;
+	communities have at their disposal (Harrison et al, 2004). Ask each member of the co-design team to complete their own asset map based on where they live or work.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Have a large (A1 or A0) size map of the area you are designing for and ask each member of the co-design team to plot their assets on the map using post-its, photos and / or lego figures. This community asset map can be added to over time and digitised.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 05 Jul 2016 15:15:19 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">172 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/asset-map#comments</comments>
+</item>
+<item>
+ <title>Inclusion Form</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/inclusion-form</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Facilitation tool.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/deliver&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Deliver&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The inclusion form identifies any support requirements of participants to enable everyone to participate equally. Facilitators can then respond by making the necessary adaptations to the workshop design and environment.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Before undertaking any design workshops, meet participants on a one to one basis and complete the checklist together. In designing the workshops, use the checklists to ensure the needs of all participants are catered for.&lt;/p&gt;
+&lt;p&gt;You may find it helpful to revisit the checklist part the way through the co-design process - participants may be more willing to give information about their additional support needs once they get to know you and you may observe additional support needs not already catered for during the workshops.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 28 Jul 2015 12:20:29 +0000</pubDate>
+ <dc:creator>Kate Dowling</dc:creator>
+ <guid isPermaLink="false">137 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/inclusion-form#comments</comments>
+</item>
+<item>
+ <title>&#039;Stop&#039; and &#039;I want to speak&#039; cards</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/stop-and-i-want-speak-cards</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Facilitation tool.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/deliver&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Deliver&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;‘Stop’ and ‘I want to speak’ cards act as a facilitation aid for the group and facilitators by allowing everyone to hold up a ‘stop’ or ‘I want to speak’ card whenever they feel appropriate. &lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Give each member of the co-design team a red ‘stop’ card and a green ‘I want to speak’ card.&lt;/p&gt;
+&lt;p&gt;Encourage the group to use these throughout the co-design team workshops.&lt;/p&gt;
+&lt;p&gt;They aid:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Equal participation by encouraging everyone to speak up&lt;/li&gt;
+&lt;li&gt;Each person to monitor their air time &lt;/li&gt;
+&lt;li&gt;Empowerment of quieter members of the group &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Faciltators should use their own professional judgement as to when to use these cards. It has been suggested that some groups may find them patronising. In Pilotlight we introduced them at the first workshop in each co-design process and at the second workshop asked the co-design team whether or not they wished to continue to use them. Some teams chose to, others felt they did not need them. We did encourage use of the &#039;red card&#039; for jargon.&lt;/p&gt;
+&lt;p&gt;Photographs rather than symbols maybe better for some groups.&lt;/p&gt;
+&lt;p&gt;Consider changing ‘I don’t understand’ to ‘What do you mean?’ on the red card when working with groups who may be reluctant to admit lack of understanding.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;An additional card was designed and used during one of our co-design processes, &#039;I don&#039;t want to speak&#039;. Individuals could use this card to indicate to the faciltator that they did not wish to share their own experiences or ideas in group discussions.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:57:47 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">110 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/stop-and-i-want-speak-cards#comments</comments>
+</item>
+<item>
+ <title>Opportunity card</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/opportunity-card</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Template to build ideas.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Develop ideas using the opportunity card.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;When the group has started to develop ideas, encourage them to build these by using the opportunity card which asks key questions around:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Time to implement&lt;/li&gt;
+&lt;li&gt;Possible barriers&lt;/li&gt;
+&lt;li&gt;Possible benefits&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;If the group are finding it hard to build ideas, refer to the insights, barriers and opportunities that the group generated in the Discover and Define phases of the design process.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:56:19 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">109 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/opportunity-card#comments</comments>
+</item>
+<item>
+ <title>Paper Prototypes</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/paper-prototypes</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Blank templates to develop prototypes.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Prototyping is an important step in order to test ideas and develop them further.&lt;/p&gt;
+&lt;p&gt;When the co-design team has produced some initial ideas of a product or service but there is still plenty of room for exploration, paper prototypes or sketches of ideas can form the main elements for co-design activity.&lt;/p&gt;
+&lt;p&gt;This tool can be used after a group has designed an idea for a product or service- this might be an advert, website, app, poster, flyer, letter or even a conversation.&lt;/p&gt;
+&lt;p&gt;This tool acts as a starting point for the group to begin sketching out the idea - like a first draft. Prototyping is an important step in order to test ideas and develop them further. The purpose of paper prototyping is not to make something pretty, but to evaluate the idea . Strong Paper prototypes are  very simple and unaffected, and there may be lots of different versions of them!&lt;/p&gt;
+&lt;p&gt;The benefits of paper prototyping are simple: they&#039;re cheap, accessible, fast to make, and easy for future collaborators to work with.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Before beginning this activity, the co-design team must have settled on an idea, or some ideas, that they would like to take into the ‘develop’ phase.&lt;/p&gt;
+&lt;p&gt;Introduce the idea to the group by showing them some examples of paper prototypes (a quick google search throws up lots of examples). The tendency for members of the group to focus on &#039;neat and tidy’ prototypes is one of the biggest obstacles to overcome with paper prototyping, so make sure you choose examples that are loose or even ’scruffy&#039;. &lt;/p&gt;
+&lt;p&gt;Provide the group with paper prototypes suited to their idea, and some craft materials: coloured paper, scissors, glue, coloring pencils or pens, post-it notes, stickers etc. It is best to print off the paper prototypes on A3 paper, as the larger the paper, the more space to draw or comment on. Encourage the group to develop their ideas on the paper prototypes. They may want to make lots of different versions, especially if their idea is a website or other interactive technology. Remind them that paper prototypes are a quick visualisation of your idea. The artistic merit of the sketch is irrelevant. &lt;/p&gt;
+&lt;p&gt;Encourage the group to take their ideas away and develop them further. If you or your colleagues have design skills it can be helpful to work ideas up to more finished examples after the initial prototyping phase for the group to feedback on in another session.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:55:16 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">108 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/paper-prototypes#comments</comments>
+</item>
+</channel>
+</rss>

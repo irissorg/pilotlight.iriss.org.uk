@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Ideas</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/ideas</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Opportunity card</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/opportunity-card</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Template to build ideas.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Develop ideas using the opportunity card.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;When the group has started to develop ideas, encourage them to build these by using the opportunity card which asks key questions around:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Time to implement&lt;/li&gt;
+&lt;li&gt;Possible barriers&lt;/li&gt;
+&lt;li&gt;Possible benefits&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;If the group are finding it hard to build ideas, refer to the insights, barriers and opportunities that the group generated in the Discover and Define phases of the design process.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:56:19 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">109 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/opportunity-card#comments</comments>
+</item>
+<item>
+ <title>Paper Prototypes</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/paper-prototypes</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Blank templates to develop prototypes.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Prototyping is an important step in order to test ideas and develop them further.&lt;/p&gt;
+&lt;p&gt;When the co-design team has produced some initial ideas of a product or service but there is still plenty of room for exploration, paper prototypes or sketches of ideas can form the main elements for co-design activity.&lt;/p&gt;
+&lt;p&gt;This tool can be used after a group has designed an idea for a product or service- this might be an advert, website, app, poster, flyer, letter or even a conversation.&lt;/p&gt;
+&lt;p&gt;This tool acts as a starting point for the group to begin sketching out the idea - like a first draft. Prototyping is an important step in order to test ideas and develop them further. The purpose of paper prototyping is not to make something pretty, but to evaluate the idea . Strong Paper prototypes are  very simple and unaffected, and there may be lots of different versions of them!&lt;/p&gt;
+&lt;p&gt;The benefits of paper prototyping are simple: they&#039;re cheap, accessible, fast to make, and easy for future collaborators to work with.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Before beginning this activity, the co-design team must have settled on an idea, or some ideas, that they would like to take into the ‘develop’ phase.&lt;/p&gt;
+&lt;p&gt;Introduce the idea to the group by showing them some examples of paper prototypes (a quick google search throws up lots of examples). The tendency for members of the group to focus on &#039;neat and tidy’ prototypes is one of the biggest obstacles to overcome with paper prototyping, so make sure you choose examples that are loose or even ’scruffy&#039;. &lt;/p&gt;
+&lt;p&gt;Provide the group with paper prototypes suited to their idea, and some craft materials: coloured paper, scissors, glue, coloring pencils or pens, post-it notes, stickers etc. It is best to print off the paper prototypes on A3 paper, as the larger the paper, the more space to draw or comment on. Encourage the group to develop their ideas on the paper prototypes. They may want to make lots of different versions, especially if their idea is a website or other interactive technology. Remind them that paper prototypes are a quick visualisation of your idea. The artistic merit of the sketch is irrelevant. &lt;/p&gt;
+&lt;p&gt;Encourage the group to take their ideas away and develop them further. If you or your colleagues have design skills it can be helpful to work ideas up to more finished examples after the initial prototyping phase for the group to feedback on in another session.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:55:16 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">108 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/paper-prototypes#comments</comments>
+</item>
+<item>
+ <title>Character profiles</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/character-profiles</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Fictional characters (based on common stakeholder groups) who use and deliver a service.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Character profiles are developed by the co-design team and solutions are then designed around them. The characters capture common stakeholder groups.&lt;/p&gt;
+&lt;p&gt;When we are working in groups that contain both people using and providing a service, increased emphasis may be placed on the members of the group who have lived experience to share their perspectives. This can be uncomfortable for individuals  and also neglects to include the knowledge amongst other group members. One way around this is to work together to create characters, or ‘ personas&#039;  that can act as a sum of all the groups experiences. The characters developed using these character profiles can then be used throughout the design process to refer back to and bounce ideas off.  Character profiles can be developed for lots of different roles as well as for people using a service - you could create a character for each member of a team, or for each stakeholder in a situation.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Consider all of the stakeholders using and delivering the service.&lt;/p&gt;
+&lt;p&gt;For each group of stakeholders, create a blank character template with key questions that you would like to build a character around.&lt;/p&gt;
+&lt;p&gt;Character profiles for people using the service can focus on where they live, who they live with, what they do during the day / evening, what barriers they face and changes they would like to see. Character profiles can also be created for people delivering the service and can focus on areas like what they enjoy about work, how they like to learn and skill-sets. &lt;/p&gt;
+&lt;p&gt;We leave space for drawing and doodling if groups would rather not write.&lt;/p&gt;
+&lt;p&gt;When introducing the activity to the group, it can be helpful to remind them that this is a fictional character. You can reinforce this by locating the character in a fictional world they know, such as a soap opera, film or novel.&lt;/p&gt;
+&lt;p&gt;Once the group have a good grasp of the task, encourage them to fill in their sheet to each ‘build&#039; a character. It can be useful to explain to the group that you will be using this character again in the design process. They can also be used in learning and development activities.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Bring the characters to life by creating a picture mood board using art materials and magazines. Take photographs of the characters. For a ‘homework’ activity you can give your group a problem scenario for their character and ask them to design solutions. This is a way to spot design opportunities. &lt;a href=&quot;https://pilotlight.iriss.org.uk/resources/pilotlight-substance-misuse-characters&quot;&gt;Pilotlight Substance Misuse Characters&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:36:03 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">100 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/character-profiles#comments</comments>
+</item>
+</channel>
+</rss>

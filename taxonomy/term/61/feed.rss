@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Service manifesto</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/service-manifesto</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Values and manifesto tool</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/values-and-manifesto-tool</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Defining service values and a service manifesto. &lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Defining the wider service values and manifesto can be helpful in positioning the overall service and considering how it should engage with service users.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Begin by explaining what you mean by &#039;values&#039; (principles or standards of behaviour) and by presenting some other brands which have distinguishable values. You could take along some props such as product boxes or service advertising. Ask the co-design team to suggest brands that they consider to be distinguisable. Ask them what it is about the brands suggested that make them distinguishable. Encourage the co-design team to think about why brand values are important.&lt;/p&gt;
+&lt;p&gt;Ask the group to brainstorm different words that express how they would like people to feel about their service. Think of these as ‘personality traits’. Having generated as many as possible, ask the group to pick their top three that best represent their brand. &lt;/p&gt;
+&lt;p&gt;Based on the three values, encourage the group to think about who or what the ‘face’ of the brand might be. This doesn’t have to be a person!&lt;/p&gt;
+&lt;p&gt;When the group are happy with their brand values, ask them to consider their service manifesto. This is how the service will speak to users and should answer:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;We will always…&lt;/li&gt;
+&lt;li&gt;We will never…&lt;/li&gt;
+&lt;li&gt;Our mission is…&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;A misison is a written declaration of the service&#039;s core purpose and focus. &lt;br /&gt;
+	 &lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Doing some research into other brands and services and how they present their values will help the co-design team understand the importance of values and a manifesto.&lt;/p&gt;
+&lt;p&gt;When you are looking to gather a group consensus, dot voting can be a quick way to prioritise the ideas.&lt;/p&gt;
+&lt;p&gt;If the language used in these tools is considered too corporate for your context, here are some alternative terms…….What is important to us? What behaviours do we want to promote?  What do we want to change? What three key things do we want to tell people about our service?&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:50:32 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">105 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/values-and-manifesto-tool#comments</comments>
+</item>
+</channel>
+</rss>

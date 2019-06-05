@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - journey mapping</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/journey-mapping</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Mapping a character’s journey</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/mapping-characters-journey</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;This exercise is about exploring the ups and downs of a character’s journey.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/develop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Develop&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Journey mapping gathers in-depth information about specific points of a character’s journey. It helps the co-design team understand things from a character’s perspective. It helps identify where service or support interventions are needed. &lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;There are three steps.&lt;/p&gt;
+&lt;p&gt;1. Identify four or five key milestones in your character’s journey. A ‘milestone’ is a significant stage or event in your character’s journey. Write the milestones down and stick them along the journey.&lt;/p&gt;
+&lt;p&gt;2. Add in the detail. Between each milestone there will be lots of smaller steps. Think about whether they are positive or negative experiences emotionally. With a pen, write these steps down. The most positive experiences should be near to the top of the page, and the worst experiences will be near the bottom of the page.&lt;/p&gt;
+&lt;p&gt;3. Using the speech bubble notes, add in how your character felt at different points.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;You will need to have developed character profiles (link to 4) before using this co-design tool.&lt;/p&gt;
+&lt;p&gt;Use a roll of lining paper or similar for each character’s journey map.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Tue, 17 Jan 2017 12:22:35 +0000</pubDate>
+ <dc:creator>Josie Vallely</dc:creator>
+ <guid isPermaLink="false">198 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/mapping-characters-journey#comments</comments>
+</item>
+</channel>
+</rss>

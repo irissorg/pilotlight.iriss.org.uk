@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://pilotlight.iriss.org.uk"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Pilotlight - Self-directed support - Characters</title>
+ <link>https://pilotlight.iriss.org.uk/category/tags/characters</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Moodboards</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/moodboards</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Pictorial boards to illustrate work.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+          &lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/category/design-stages/discover&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Discover&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Moodboards can help bring a piece of work to life through pictures.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Used in the discover phase of the design process, a moodboard can be used as a way for the co-design team to get to know each other. Ask everyone to gather pictures of ‘things I like’ and stick them on their moodboard.&lt;/p&gt;
+&lt;p&gt;Used in the define phase of the design process, a moodboard can help bring character profiles to life. After each member of the group has developed a profile, encourage them to create a moodboard to illustrate bits of the character.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Use art materials and magazines to create moodboards. Take photographs of the group’s moodboards.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:40:10 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">102 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/moodboards#comments</comments>
+</item>
+<item>
+ <title>Role play</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/role-play</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Acting to bring a service scenario to life.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Role play is a fun way to bring elements of a service to life and begin to explore design solutions.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Consider the problem you would like to design solutions for.&lt;/p&gt;
+&lt;p&gt;Based on the character profiles, develop some scenarios that you would like the co-design team to develop role plays around. Each scenario should:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Include a situation that the team need to develop a solution for&lt;/li&gt;
+&lt;li&gt;Include people using and delivering the service&lt;/li&gt;
+&lt;li&gt;Include enough people so that the whole co-design team can get involved in the role play&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Encourage the co-design team to act out their role play.&lt;/p&gt;
+&lt;p&gt;Afterwards encourage the group to discuss the ideas that emerged. &lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Bring the role plays to life with props. Provide the group with space and time to prepare their role play. Capture the role plays by taking photographs and/or recording video clips. It is useful to transcribe the role play which can then be used to develop service conversations at a later date.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:38:05 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">101 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/role-play#comments</comments>
+</item>
+<item>
+ <title>Character profiles</title>
+ <link>https://pilotlight.iriss.org.uk/co-design/tools/character-profiles</link>
+ <description>&lt;div class=&quot;field field--name-body field--type-text-with-summary field--label-hidden&quot;&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;Fictional characters (based on common stakeholder groups) who use and deliver a service.&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-stages field--type-taxonomy-term-reference field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;At what stage of the design process is the tool most useful?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/category/design-stages/define&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Define&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-what field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;What does it do?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Character profiles are developed by the co-design team and solutions are then designed around them. The characters capture common stakeholder groups.&lt;/p&gt;
+&lt;p&gt;When we are working in groups that contain both people using and providing a service, increased emphasis may be placed on the members of the group who have lived experience to share their perspectives. This can be uncomfortable for individuals  and also neglects to include the knowledge amongst other group members. One way around this is to work together to create characters, or ‘ personas&#039;  that can act as a sum of all the groups experiences. The characters developed using these character profiles can then be used throughout the design process to refer back to and bounce ideas off.  Character profiles can be developed for lots of different roles as well as for people using a service - you could create a character for each member of a team, or for each stakeholder in a situation.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-how field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;How do you use it?&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Consider all of the stakeholders using and delivering the service.&lt;/p&gt;
+&lt;p&gt;For each group of stakeholders, create a blank character template with key questions that you would like to build a character around.&lt;/p&gt;
+&lt;p&gt;Character profiles for people using the service can focus on where they live, who they live with, what they do during the day / evening, what barriers they face and changes they would like to see. Character profiles can also be created for people delivering the service and can focus on areas like what they enjoy about work, how they like to learn and skill-sets. &lt;/p&gt;
+&lt;p&gt;We leave space for drawing and doodling if groups would rather not write.&lt;/p&gt;
+&lt;p&gt;When introducing the activity to the group, it can be helpful to remind them that this is a fictional character. You can reinforce this by locating the character in a fictional world they know, such as a soap opera, film or novel.&lt;/p&gt;
+&lt;p&gt;Once the group have a good grasp of the task, encourage them to fill in their sheet to each ‘build&#039; a character. It can be useful to explain to the group that you will be using this character again in the design process. They can also be used in learning and development activities.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;field field--name-field-tool-useful field--type-text-long field--label-above&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Useful resources when using the tool&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+          &lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Bring the characters to life by creating a picture mood board using art materials and magazines. Take photographs of the characters. For a ‘homework’ activity you can give your group a problem scenario for their character and ask them to design solutions. This is a way to spot design opportunities. &lt;a href=&quot;https://pilotlight.iriss.org.uk/resources/pilotlight-substance-misuse-characters&quot;&gt;Pilotlight Substance Misuse Characters&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <pubDate>Thu, 08 Jan 2015 11:36:03 +0000</pubDate>
+ <dc:creator>admin_pilotlight</dc:creator>
+ <guid isPermaLink="false">100 at https://pilotlight.iriss.org.uk</guid>
+ <comments>https://pilotlight.iriss.org.uk/co-design/tools/character-profiles#comments</comments>
+</item>
+</channel>
+</rss>
